@@ -462,7 +462,7 @@ button:focus {
     height: 100px;
     background: transparent;
     background-size: 100% 100%;
-    background-image: url(https://i.imgur.com/Hbo3ttF.png);
+    background-image:;
 }
 
 /*----DEMO 9/10/11/12----*/
@@ -616,7 +616,7 @@ button:focus {
 
 .bg-cta {
     position: relative;
-    background-image: url(https://i.imgur.com/4bc1yjL.jpg);
+    background-image: ;
     background-size: cover;
     background-position: center center;
 }
