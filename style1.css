@@ -1,5 +1,6 @@
 
 
+
 @import url('https://fonts.googleapis.com/css?family=Nunito:400,600,700|Lato:400,700');
 
 /*======================
@@ -378,7 +379,7 @@ button:focus {
 ============================*/
 
 .home-bg {
-    background-image: url(https://i.imgur.com/QaF51CW.jpg);
+    background-image:;
     background-position: center center;
     background-size: cover;
     position: relative;
